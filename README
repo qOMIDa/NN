@@ -1,0 +1,17 @@
+Hello!
+The following project aim is to get the minimal tools to deploy a network with equipment available after a disaster/government control.
+There would be links to Linux ISO(s) and Windows also. The stuff downloaded would be stored in HDD(s), making it a survival tool for every tech related prepper.
+Also, universal drivers would be linked here.
+My way of organaising it is quite simple, at the end of the day I plan to make some script which downloads a bunch of files (with wget?)
+
+The user could easily execute the premade script or customize it at his/her will.
+  -Client script      ->   Barebones client ISO(s) with preinstalled tools. It's aim is to provide a fast OS with all offline tools needed.
+  -Server script      ->   Barebone server ISO(s) with preinstalled tools. It's aim is to provide a fast OS with all offline tools needed.
+  -All-in-one script  ->   This will download both client and server files.
+
+Also, some bigger size files could be created (I'm talking about 40gb space more or less). This may be useful in a total no-internet era. Files for education, 
+making mesh-networks or even leisure time would be downloaded. In case, as always, there is no internet. Or you know you are going somewhere in the middle of 
+the woods and a good Doom would be nice to have. 
+
+I'm qOMIDa, a tech enthusiast and coder. I'm open to any sugestions!
+          Be careful of EMP(s)...
