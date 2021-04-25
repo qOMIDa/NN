@@ -1,3 +1,0 @@
-http://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04-alternate-i386.iso
-# https://lubuntu.net
-# [!] I do not own anything from this link [!]
